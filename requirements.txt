@@ -10,7 +10,7 @@ opencv-python==4.5.4.58
 
 Pillow==8.4.0
 
-torch==1.9.1
+torch==2.6.0
 
 torchvision==0.10.1
 
